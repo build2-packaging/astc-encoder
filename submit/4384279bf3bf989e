@@ -1,0 +1,7 @@
+: 1
+name: libastcenc
+version: 5.7.0
+language: c++
+project: astc-encoder
+summary: ASTC texture compression C library
+license: Apache-2.0

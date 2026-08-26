@@ -1,0 +1,8 @@
+: 1
+name: libastcenc-tests
+version: 5.7.0
+type: exe
+language: c++
+project: astc-encoder
+summary: ASTC texture compression C library (tests)
+license: Apache-2.0
